@@ -3,3 +3,9 @@ h1{
   font-style: italic;
   font-size: 13px
 }
+h2{
+
+  text-align: center;
+  font-style: oblique;
+  font-size: 10px
+}
