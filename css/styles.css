@@ -27,3 +27,9 @@ h5{
   font-style: oblique;
   font-size: 17px
 }
+body{
+  text-align: left;
+  font-family: fantasy;
+  font-size: 10px
+  line-height: 10px;
+}
